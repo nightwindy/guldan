@@ -1,0 +1,17 @@
+{
+  "properties": [
+    {
+      "name": "guldan.mq.nameServerAddress",
+      "type": "java.lang.String",
+      "sourceType": "com.guldan.starter.mq.config.MQProducerAutoConfiguration"
+    }, {
+      "name": "guldan.mq.producerGroup",
+      "type": "java.lang.String",
+      "sourceType": "com.guldan.starter.mq.config.MQProducerAutoConfiguration"
+    }, {
+      "name": "guldan.mq.traceEnabled",
+      "type": "java.lang.Boolean",
+      "sourceType": "com.guldan.starter.mq.config.MQConsumerAutoConfiguration"
+    }
+  ]
+}
